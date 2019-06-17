@@ -1,0 +1,7 @@
+writer-23655 has finished writing 101 pieces of data from the data_buffer.
+writer-23654 has finished writing 101 pieces of data from the data_buffer.
+reader-23660 has finished reading 101 pieces of data from the data_buffer.
+reader-23657 has finished reading 101 pieces of data from the data_buffer.
+reader-23656 has finished reading 101 pieces of data from the data_buffer.
+reader-23659 has finished reading 101 pieces of data from the data_buffer.
+reader-23658 has finished reading 101 pieces of data from the data_buffer.
