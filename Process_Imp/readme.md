@@ -1,4 +1,4 @@
-# Reader Writer process problem
+# Process implementation of first Reader Writer problem
 
 ## Usage:
 
